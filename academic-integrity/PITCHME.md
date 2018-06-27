@@ -15,7 +15,7 @@ Note:
 - difficult
 - noble
 - human
----
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 ## Learning is...
 ---
 ## Students are...
