@@ -1,5 +1,5 @@
-# Academic Integrity
-### And Technology
+## Academic Integrity
+#### And Technology
 
 ##### Colin Madland, MEd (Distance Education)
 
