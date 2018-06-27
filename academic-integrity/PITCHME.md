@@ -10,6 +10,11 @@
 
 ---
 ## Teaching is...
+
+Note:
+- difficult
+- noble
+- human
 ---
 ## Learning is...
 ---
