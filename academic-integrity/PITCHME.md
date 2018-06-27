@@ -25,5 +25,5 @@
 ## Luddites
 >It was never about the loom per se. It’s always about who owns the machines; it’s about who benefits from one’s labor, from one’s craft. (Audrey Watters)
 ---
-![](https://github.com/cmadland/gitpitch/blob/master/academic-integrity/assets/Stommel-Tweet.png) 
+![Alt](/academic-integrity/assets/Stommel-Tweet.png) 
 ---
