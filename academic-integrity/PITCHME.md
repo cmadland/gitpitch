@@ -11,9 +11,9 @@
 >If you don't own your masters, your master owns you. (Prince, 1996; HT [Audrey Watters](https://hackeducation.com/2017/04/07/prince))
 ---
 
-# Luddites
+## Luddites
 >It was never about the loom per se. It’s always about who owns the machines; it’s about who benefits from one’s labor, from one’s craft. (Audrey Watters)
-___
+---
 ## Teaching is...
 ---
 ## Learning is...
