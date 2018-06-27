@@ -15,6 +15,7 @@ Note:
 - difficult
 - noble
 - human
+
 ---?image=https://unsplash.com/photos/ks_nwPcGdl8
 ## Learning is...
 ---
