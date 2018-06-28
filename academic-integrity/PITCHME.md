@@ -64,6 +64,7 @@ Is technology *JUST* a tool?
 
 ### Sources
 Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Domestic Abuse. The New York Times. Retrieved from https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html
+
 Herold, B. (n.d.). Teacher’s Aide or Surveillance Nightmare? Alexa Hits the Classroom. Retrieved June 28, 2018, from http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html
 ---
 Stommel, J. (2018, June 20). Ethical Online Learning. Education. Retrieved from https://www.slideshare.net/jessestommel/ethical-online-learning
