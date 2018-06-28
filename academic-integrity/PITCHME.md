@@ -33,7 +33,7 @@ Is technology *JUST* a tool?
 ![](/academic-integrity/assets/hey-wiretap.JPG)
 
 ---
-## Alexa Hits the Classroom
+### Alexa Hits the Classroom
 ![](/academic-integrity/assets/amazon-surveillance.png)
 
 ###### [Education Week](http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html?cmp=SOC-SHR-FB)
@@ -48,6 +48,8 @@ Is technology *JUST* a tool?
 
 ---
 ![](/academic-integrity/assets/Stommel-Tweet.png)
+---
+![](/academic-integrity/assets/Stommel-tweet-2.png)
 ---
 Sources
 - Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Domestic Abuse. The New York Times. Retrieved from https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html
