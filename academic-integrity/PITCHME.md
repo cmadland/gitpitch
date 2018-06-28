@@ -32,7 +32,6 @@ Is technology *JUST* a tool?
 ---
 ![](/academic-integrity/assets/hey-wiretap.jpg)
 
-###### [The Free Thought Project](thefreethoughtproject.com)
 ---
 ![](/academic-integrity/assets/amazon-surveillance.jpg)
 
