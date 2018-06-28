@@ -30,7 +30,7 @@ Is technology *JUST* a tool?
 > Tools are made by people, and most (or even all) educational technologies have pedagogies hard-coded into them in advance. This is why it is so essential we consider them carefully and critically—that we empty all our LEGOs onto the table and sift through them before we start building. Some tools are decidedly less innocuous than others. ([Jesse Stommel](https://www.slideshare.net/jessestommel/ethical-online-learning))
 
 ---
-![](/academic-integrity/assets/hey-wiretap.JPG)
+![](/academic-integrity/assets/hey-wiretap.JPG&size=50%)
 
 ---
 ### Alexa Hits the Classroom
