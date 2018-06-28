@@ -23,6 +23,12 @@ Note:
 ---
 ## Technology is...
 ---
+Is technology *JUST* a tool?
+---
+![Technology and Abuse](/academic-integrity/assets/technology-and-abuse.png)
+
+###### [NY Times](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
+---
 ## Algorithms are...
 ---
 >If you don't own your masters, your master owns you. (Prince, 1996; HT [Audrey Watters](https://hackeducation.com/2017/04/07/prince))
@@ -33,7 +39,6 @@ Note:
 ---
 ![Alt](/academic-integrity/assets/Stommel-Tweet.png) 
 ---
-<details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-         </details>
+Sources
+- Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Domestic Abuse. The New York Times. Retrieved from https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html
+
