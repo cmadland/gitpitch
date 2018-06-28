@@ -51,7 +51,7 @@ Is technology *JUST* a tool?
 ---
 ![](/academic-integrity/assets/Stommel-Tweet.png)
 
-[@Jessifer](https://twitter.com/maha9313/status/1009701001832607744)
+[@Jessifer](https://twitter.com/Jessifer/status/1009737552117616640)
 ---
 ![](/academic-integrity/assets/Stommel-tweet-2.png)
 
@@ -62,6 +62,7 @@ Sources
 - Herold, B. (n.d.). Teacher’s Aide or Surveillance Nightmare? Alexa Hits the Classroom. Retrieved June 28, 2018, from http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html?cmp=SOC-SHR-FB
 ---
 - Stommel, J. (2018, June 21). Turnitin helps create and feed a culture of suspicion around students and their work. The company is invested in manufacturing a problem they can solve. They also monetize a database of student work, and those students are not compensated and have little to no ability to consent.https://twitter.com/maha9313/status/1009701001832607744 … [Tweet]. Retrieved June 28, 2018, from https://twitter.com/Jessifer/status/1009737552117616640
+---
 - Stommel, J. (2018, June 23). Plagiarism exists. I’d never begrudge individual teachers for their frustrations at this. The work of teaching is hard. But why do entire institutions adopt and require the use of tools like Turnitin that assume from the start that students are dishonest, plagiarists, cheaters? [Tweet]. Retrieved June 28, 2018, from https://twitter.com/Jessifer/status/1010442757788323840
 ---
-Watters, A. (2017, April 7). “Education Technology’s Completely Over.” Retrieved June 28, 2018, from http://hackeducation.com/2017/04/07/prince
+- Watters, A. (2017, April 7). “Education Technology’s Completely Over.” Retrieved June 28, 2018, from http://hackeducation.com/2017/04/07/prince
