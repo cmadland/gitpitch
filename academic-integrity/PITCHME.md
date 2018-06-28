@@ -25,7 +25,7 @@ Note:
 ---
 Is technology *JUST* a tool?
 ---
-![Technology and Abuse](/academic-integrity/assets/technology-and-abuse.png)
+![](/academic-integrity/assets/technology-and-abuse.png)
 
 ###### [NY Times](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
 ---
@@ -37,7 +37,7 @@ Is technology *JUST* a tool?
 ## Luddites
 >It was never about the loom per se. It’s always about who owns the machines; it’s about who benefits from one’s labor, from one’s craft. (Audrey Watters)
 ---
-![Alt](/academic-integrity/assets/Stommel-Tweet.png) 
+![](/academic-integrity/assets/Stommel-Tweet.png) 
 ---
 Sources
 - Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Domestic Abuse. The New York Times. Retrieved from https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html
