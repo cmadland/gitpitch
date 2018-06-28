@@ -27,6 +27,17 @@ Is technology *JUST* a tool?
 ---
 ![](/academic-integrity/assets/technology-and-abuse.png)
 ---
+> Tools are made by people, and most (or even all) educational technologies have pedagogies hard-coded into them in advance. This is why it is so essential we consider them carefully and critically—that we empty all our LEGOs onto the table and sift through them before we start building. Some tools are decidedly less innocuous than others. ([Jesse Stommel](https://www.slideshare.net/jessestommel/ethical-online-learning))
+
+---
+![](/academic-integrity/assets/hey-wiretap.jpg)
+
+###### [The Free Thought Project](thefreethoughtproject.com)
+---
+![](/academic-integrity/assets/amazon-surveillance.jpg)
+
+###### [Education Week](http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html?cmp=SOC-SHR-FB)
+---
 ## Algorithms are...
 ---
 >If you don't own your masters, your master owns you. (Prince, 1996; HT [Audrey Watters](https://hackeducation.com/2017/04/07/prince))
@@ -40,3 +51,4 @@ Is technology *JUST* a tool?
 ---
 Sources
 - Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Domestic Abuse. The New York Times. Retrieved from https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html
+- Herold, B. (n.d.). Teacher’s Aide or Surveillance Nightmare? Alexa Hits the Classroom. Retrieved June 28, 2018, from http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html?cmp=SOC-SHR-FB
