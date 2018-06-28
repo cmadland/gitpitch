@@ -26,8 +26,6 @@ Note:
 Is technology *JUST* a tool?
 ---
 ![](/academic-integrity/assets/technology-and-abuse.png)
-
-###### [NY Times](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
 ---
 ## Algorithms are...
 ---
