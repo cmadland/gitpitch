@@ -33,6 +33,7 @@ Is technology *JUST* a tool?
 ![](/academic-integrity/assets/hey-wiretap.JPG)
 
 ---
+## Alexa Hits the Classroom
 ![](/academic-integrity/assets/amazon-surveillance.png)
 
 ###### [Education Week](http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html?cmp=SOC-SHR-FB)
