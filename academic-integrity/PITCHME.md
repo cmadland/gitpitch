@@ -64,7 +64,6 @@ Is technology *JUST* a tool?
 ---?image=/academic-integrity/assets/IMG_4963.PNG&size=contain
 
 
-[@cath_omahony](https://twitter.com/cath_omahony/status/1012643576935780352)
 ---
 #### Further Reading
 - [The Citation Project](http://www.citationproject.net/)
