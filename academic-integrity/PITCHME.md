@@ -62,7 +62,7 @@ Is technology *JUST* a tool?
 > Educators at every level must begin by listening to and trusting students. Teachers stand to learn more from students about online learning than we could ever teach. Many students come to an online or hybrid class knowing very well how to learn online, even if they don’t always know how to learn in an online course. [Jesse Stommel](https://www.slideshare.net/jessestommel/ethical-online-learning)
 ---
 
-![](/academic-integrity/assets/IMG_4963.png)
+![](/academic-integrity/assets/IMG_4963.PNG)
 
 [@cath_omahony](https://twitter.com/cath_omahony/status/1012643576935780352)
 ---
