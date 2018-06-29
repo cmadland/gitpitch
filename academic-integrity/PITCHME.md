@@ -17,9 +17,13 @@ Note:
 
 [Padlet](https://padlet.com/colin_madland/academicintegrity)
 
-
+Note:
+- Changing someone else's mind
 ---
 ## Learning is...
+
+Note:
+- changing your own mind
 ---
 ## Students are...
 ---
