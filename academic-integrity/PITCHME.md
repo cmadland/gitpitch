@@ -7,6 +7,8 @@
 
 ###### [http://bit.ly/gitpitch-ai](http://bit.ly/gitpitch-ai)
 ###### [Fork this presentation on GitHub](https://github.com/cmadland/gitpitch)
+@fa[twitter][@colinmadland](https://twitter.com/colinmadland)
+
 
 Note:
 - born in simpcw territory AKA Clearwater, BC
