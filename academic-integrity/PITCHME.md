@@ -8,15 +8,15 @@
 ###### [http://bit.ly/gitpitch-ai](http://bit.ly/gitpitch-ai)
 ###### [Fork this presentation on GitHub](https://github.com/cmadland/gitpitch)
 
+Note:
+- born in simpcw territory AKA Clearwater, BC
+- most recently moved to secwepemc territory
+- now grateful to live and work on stolo and kwantlen territory
 ---
 ## Teaching is...
 
 [Padlet](https://padlet.com/colin_madland/academicintegrity)
 
-Note:
-- difficult
-- noble
-- human
 
 ---
 ## Learning is...
@@ -62,6 +62,10 @@ Is technology *JUST* a tool?
 > Educators at every level must begin by listening to and trusting students. Teachers stand to learn more from students about online learning than we could ever teach. Many students come to an online or hybrid class knowing very well how to learn online, even if they don’t always know how to learn in an online course. [Jesse Stommel](https://www.slideshare.net/jessestommel/ethical-online-learning)
 ---
 
+![](/academic-integrity/assets/IMG_4963.png)
+
+[@cath_omahony](https://twitter.com/cath_omahony/status/1012643576935780352)
+---
 #### Further Reading
 - [The Citation Project](http://www.citationproject.net/)
 - [Guide for Resisting Ed Tech: The Case Against Turnitin](http://hybridpedagogy.org/resisting-edtech/)
@@ -74,6 +78,9 @@ Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Dome
 
 Herold, B. (n.d.). Teacher’s Aide or Surveillance Nightmare? Alexa Hits the Classroom. Retrieved June 28, 2018, from http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html
 ---
+O’Mahony, D. C. (2018, June 29). Biggest waste of assessment practices in Higher Ed is that students work is provided to those that already know about the topic. Need to structure opportunities for students to create work for external agencies and civil society organisations. @DevonDilly @CARL_UCC [Tweet]. Retrieved June 29, 2018, from https://twitter.com/cath_omahony/status/1012643576935780352
+---
+
 Stommel, J. (2018, June 20). Ethical Online Learning. Education. Retrieved from https://www.slideshare.net/jessestommel/ethical-online-learning
 
 Stommel, J. (2018, June 21). Turnitin helps create and feed a culture of suspicion around students and their work. The company is invested in manufacturing a problem they can solve. They also monetize a database of student work, and those students are not compensated and have little to no ability to consent.https://twitter.com/maha9313/status/1009701001832607744 … [Tweet]. Retrieved June 28, 2018, from https://twitter.com/Jessifer/status/1009737552117616640
