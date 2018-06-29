@@ -13,17 +13,22 @@ Note:
 - most recently moved to secwepemc territory
 - now grateful to live and work on stolo and kwantlen territory
 ---
-## Teaching is...
+## Learning is...
 
 [Padlet](https://padlet.com/colin_madland/academicintegrity)
 
 Note:
-- Changing someone else's mind
+- changing your own mind
+- difficult
+- non-linear
+- a process
+
 ---
-## Learning is...
+## Teaching is...
 
 Note:
-- changing your own mind
+- Changing someone else's mind
+- contingent
 ---
 ## Students are...
 
@@ -78,7 +83,7 @@ Is technology *JUST* a tool?
 
 ---?image=/academic-integrity/assets/IMG_4963.PNG&size=contain
 
-
+## Are your assignments disposable?
 ---
 #### Further Reading
 - [The Citation Project](http://www.citationproject.net/)
