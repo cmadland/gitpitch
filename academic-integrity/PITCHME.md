@@ -33,6 +33,7 @@ Note:
 - messy
 - busy
 - digitally illiterate
+- diverse (extroverted, introverted, healthy, sick, worried, homeless, hungry, intercultural)
 ---
 ## Technology is...
 
