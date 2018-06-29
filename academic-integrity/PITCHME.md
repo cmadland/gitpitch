@@ -26,8 +26,18 @@ Note:
 - changing your own mind
 ---
 ## Students are...
+
+Note:
+- complex
+- human
+- messy
+- busy
+- digitally illiterate
 ---
 ## Technology is...
+
+Note:
+- allows frictionless, free, and infinite copying
 ---
 Is technology *JUST* a tool?
 ---
