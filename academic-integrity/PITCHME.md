@@ -99,9 +99,8 @@ Herold, B. (n.d.). Teacher’s Aide or Surveillance Nightmare? Alexa Hits the Cl
 ---
 O’Mahony, D. C. (2018, June 29). Biggest waste of assessment practices in Higher Ed is that students work is provided to those that already know about the topic. Need to structure opportunities for students to create work for external agencies and civil society organisations. @DevonDilly @CARL_UCC [Tweet]. Retrieved June 29, 2018, from https://twitter.com/cath_omahony/status/1012643576935780352
 ---
-
 Stommel, J. (2018, June 20). Ethical Online Learning. Education. Retrieved from https://www.slideshare.net/jessestommel/ethical-online-learning
-
+---
 Stommel, J. (2018, June 21). Turnitin helps create and feed a culture of suspicion around students and their work. The company is invested in manufacturing a problem they can solve. They also monetize a database of student work, and those students are not compensated and have little to no ability to consent.https://twitter.com/maha9313/status/1009701001832607744 … [Tweet]. Retrieved June 28, 2018, from https://twitter.com/Jessifer/status/1009737552117616640
 ---
 Stommel, J. (2018, June 23). Plagiarism exists. I’d never begrudge individual teachers for their frustrations at this. The work of teaching is hard. But why do entire institutions adopt and require the use of tools like Turnitin that assume from the start that students are dishonest, plagiarists, cheaters? [Tweet]. Retrieved June 28, 2018, from https://twitter.com/Jessifer/status/1010442757788323840
