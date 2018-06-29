@@ -62,6 +62,13 @@ Is technology *JUST* a tool?
 > Educators at every level must begin by listening to and trusting students.Teachers stand to learn more from students about online learning than we could ever teach. Many students come to an online or hybrid class knowing very well how to learn online, even if they don’t always know how to learn in an online course. [Jesse Stommel](https://www.slideshare.net/jessestommel/ethical-online-learning)
 ---
 
+#### Further Reading
+- [The Citation Project](http://www.citationproject.net/)
+- [Guide for Resisting Ed Tech: The Case Against Turnitin](http://hybridpedagogy.org/resisting-edtech/)
+- [Testing the Effectiveness of Plagiarism Detection Software](http://plagiat.htw-berlin.de/software-en/test2013/report-2013/)
+- [Arguing Against Turnitin](https://rmoorehoward.wordpress.com/2013/05/04/arguing-against-turnitin/)
+
+---
 ### Sources
 Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Domestic Abuse. The New York Times. Retrieved from https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html
 
