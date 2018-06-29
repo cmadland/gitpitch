@@ -59,6 +59,13 @@ Note:
 ---
 > Tools are made by people, and most (or even all) educational technologies have pedagogies hard-coded into them in advance. This is why it is so essential we consider them carefully and critically—that we empty all our LEGOs onto the table and sift through them before we start building. Some tools are decidedly less innocuous than others. ([Jesse Stommel](https://www.slideshare.net/jessestommel/ethical-online-learning))
 
+Note:
+- hard-coded pedagogies were seen in the discussion of the app earlier today
+  - mobile first
+  - talk to admin before parents
+  - linear progression
+  - right/wrong answers
+
 ---?image=/academic-integrity/assets/hey-wiretap.JPG&size=contain
 
 
