@@ -6,7 +6,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 ###### [http://bit.ly/gitpitch-ai](http://bit.ly/gitpitch-ai)
-###### @fa[code-fork] [this presentation on](https://github.com/cmadland/gitpitch) @fa[github]
+###### @fa[code-fork]  [this presentation on](https://github.com/cmadland/gitpitch)  @fa[github]
 @fa[twitter][@colinmadland](https://twitter.com/colinmadland)
 
 
@@ -14,6 +14,7 @@ Note:
 - born in simpcw territory AKA Clearwater, BC
 - most recently moved to secwepemc territory
 - now grateful to live and work on stolo and kwantlen territory
+- heads-up, I will mention situations of domestic abuse in general terms, so if you feel you need to prepare yourself for that, please do so.
 ---
 ## Learning is...
 
@@ -48,6 +49,9 @@ Note:
 - allows frictionless, free, and infinite copying
 ---
 Is technology *JUST* a tool?
+
+Note:
+- warning about domestic abuse, next slide
 ---
 ![](/academic-integrity/assets/technology-and-abuse.png)
 
@@ -66,11 +70,11 @@ Is technology *JUST* a tool?
 ---
 ## Algorithms are...
 ---
->If you don't own your masters, your master owns you. (Prince, 1996; HT [Audrey Watters](https://hackeducation.com/2017/04/07/prince))
----
-
 ## Luddites
 >It was never about the loom per se. It’s always about who owns the machines; it’s about who benefits from one’s labor, from one’s craft. ([Audrey Watters](http://hackeducation.com/2017/04/07/prince))
+
+---
+>If you don't own your masters, your master owns you. (Prince, 1996; HT [Audrey Watters](https://hackeducation.com/2017/04/07/prince))
 
 ---
 ![](/academic-integrity/assets/Stommel-Tweet.png)
