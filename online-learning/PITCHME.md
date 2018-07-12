@@ -27,9 +27,11 @@ Note:
 
 ---
 ## TWU Learning Environment
-- [Moodle](https://learn.twu.ca)
-- [WordPress](https://create.twu.ca)
-- [PressBooks](https://books.twu.ca)
+[Moodle](https://learn.twu.ca)
+
+[WordPress](https://create.twu.ca)
+
+[PressBooks](https://books.twu.ca)
 
 ---
 ## Students are...
