@@ -72,7 +72,7 @@ Note:
 
 [Academic Technology Ambassadors](https://twu.ca/help)
 
-1v1 Phone Help @ 1.888.468.6898
+1v1 Phone Help @ 1.866.614.4652
 ---
 ### Sources
 Herold, B. (n.d.). Teacher’s Aide or Surveillance Nightmare? Alexa Hits the Classroom. Retrieved June 28, 2018, from http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html
