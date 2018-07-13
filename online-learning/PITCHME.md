@@ -34,42 +34,23 @@ Note:
 [PressBooks](https://books.twu.ca)
 
 ---
-## Students are...
-
-Note:
-- complex
-- human
-- messy
-- busy
-- digitally illiterate
-- diverse (extroverted, introverted, healthy, sick, worried, homeless, hungry, intercultural)
+Why so many tools?
 ---
-## Technology is...
-
-Note:
-- allows frictionless, free, and infinite copying
+# Community
 ---
-Is technology *JUST* a tool?
-
-Note:
-- warning about domestic abuse, next slide
+# Open
 ---
-![](/academic-integrity/assets/technology-and-abuse.png)
+# Agency
+## Luddites
+>It was never about the loom per se. It’s always about who owns the machines; it’s about who benefits from one’s labor, from one’s craft. ([Audrey Watters](http://hackeducation.com/2017/04/07/prince))
 
-[NY Times](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
 ---
-> Tools are made by people, and most (or even all) educational technologies have pedagogies hard-coded into them in advance. This is why it is so essential we consider them carefully and critically—that we empty all our LEGOs onto the table and sift through them before we start building. Some tools are decidedly less innocuous than others. ([Jesse Stommel](https://www.slideshare.net/jessestommel/ethical-online-learning))
-
-Note:
-- hard-coded pedagogies were seen in the discussion of the app earlier today
-  - mobile first
-  - talk to admin before parents
-  - linear progression
-  - right/wrong answers
-
----?image=/academic-integrity/assets/hey-wiretap.JPG&size=contain
-
-
+# Ownership
+>If you don't own your masters, your master owns you. (Prince, 1996; HT [Audrey Watters](https://hackeducation.com/2017/04/07/prince))
+---
+# Contributions
+---
+# Technology
 ---
 ### Alexa Hits the Classroom
 ![](/academic-integrity/assets/amazon-surveillance.png)
@@ -79,15 +60,7 @@ Note:
 Note:
 - web today is driven primarily by surveillance capitalism
 ---
-## Algorithms are...
----
-## Luddites
->It was never about the loom per se. It’s always about who owns the machines; it’s about who benefits from one’s labor, from one’s craft. ([Audrey Watters](http://hackeducation.com/2017/04/07/prince))
 
----
->If you don't own your masters, your master owns you. (Prince, 1996; HT [Audrey Watters](https://hackeducation.com/2017/04/07/prince))
-
----
 ![](/academic-integrity/assets/Stommel-Tweet.png)
 
 [@Jessifer](https://twitter.com/Jessifer/status/1009737552117616640)
@@ -110,8 +83,6 @@ Note:
 
 ---
 ### Sources
-Bowles, N. (2018, June 24). Thermostats, Locks and Lights: Digital Tools of Domestic Abuse. The New York Times. Retrieved from https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html
-
 Herold, B. (n.d.). Teacher’s Aide or Surveillance Nightmare? Alexa Hits the Classroom. Retrieved June 28, 2018, from http://blogs.edweek.org/edweek/DigitalEducation/2018/06/alexa_in_the_classroom_teachers_surveillance.html
 ---
 O’Mahony, D. C. (2018, June 29). Biggest waste of assessment practices in Higher Ed is that students work is provided to those that already know about the topic. Need to structure opportunities for students to create work for external agencies and civil society organisations. @DevonDilly @CARL_UCC [Tweet]. Retrieved June 29, 2018, from https://twitter.com/cath_omahony/status/1012643576935780352
