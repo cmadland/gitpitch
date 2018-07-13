@@ -40,6 +40,7 @@ Why so many tools?
 ---
 # Open
 ---?image=/academic-integrity/assets/IMG_4963.PNG&size=contain
+---
 # Agency
 >It was never about the loom per se. It’s always about who owns the machines; it’s about who benefits from one’s labor, from one’s craft. ([Audrey Watters](http://hackeducation.com/2017/04/07/prince))
 ---
@@ -62,9 +63,13 @@ Note:
 ## Web Resources
 
 [WordPress Resource Site](https://create.twu.ca/malead/)
+
 [Moodle Help](https://twonline.gitbook.io/moodlefaq)
+
 [WordPress Help](https://twonline.gitbook.io/wordpress)
+
 [Academic Technology Ambassadors](https://twu.ca/help)
+
 1v1 Phone Help @
 ---
 ### Sources
