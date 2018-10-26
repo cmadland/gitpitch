@@ -8,6 +8,7 @@
 ###### [http://bit.ly/gitpitch-ai](http://bit.ly/gitpitch-ai)
 ###### @fa[code-fork]  [this presentation on](https://github.com/cmadland/gitpitch)  @fa[github]
 @fa[twitter][@colinmadland](https://twitter.com/colinmadland)
+
 @fa[twitter][@cogdog](https://twitter.com/cogdog)
 
 ---
