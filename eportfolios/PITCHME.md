@@ -27,7 +27,7 @@ Note:
 'Hey Colin...'
 
 Note:
-- WPMS  on shared server (reclaim)
+- WPMS on shared server (reclaim)
 - 600 freshmen in 2018
 - limited support capacity
 
@@ -46,16 +46,15 @@ help
 
 Quick shout-out to indie ed-tech!
 ---
+## NS Cloner Pro
+allows new users to clone existing sites
+---
+## JetPack
 
+module uses 'Portfolio' post type
 
 ---
-
-Note:
-
----?image=/academic-integrity/assets/hey-wiretap.JPG&size=contain
-
-
----
+## 4 Custom Themes
 
 ---
 ---
