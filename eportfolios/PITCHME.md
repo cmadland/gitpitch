@@ -35,7 +35,9 @@ Note:
 ## Needs
 
 dedicated server
+
 easy sign-up
+
 templated sites
 ---
 ## Technology is...
