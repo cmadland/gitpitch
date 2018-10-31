@@ -6,7 +6,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-###### [http://bit.ly/etug2018](http://bit.ly/etug2018)
+###### [http://bit.ly/etug18](http://bit.ly/etug18)
 ###### @fa[code-fork]  [this presentation on](https://github.com/cmadland/gitpitch)  @fa[github]
 @fa[twitter][@colinmadland](https://twitter.com/colinmadland)
 
@@ -112,7 +112,7 @@ Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisit
 
 ## Links R Us
 
-[TWU Create](https://create.twu.ca/)
+[TWU Digital Learning Commons](https://create.twu.ca/)
 
 [TWU e-Portfolios](https://create.twu.ca/eportfolios/)
 
