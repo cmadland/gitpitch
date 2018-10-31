@@ -79,6 +79,10 @@ and WP.com account (+upsells)
 
 ![](eportfolios/assets/img/4-themes.jpg)
 
+---
+
+## The Themes
+
 [TWU Inspire Portfolio Theme](https://create.twu.ca/portfolio-inspire/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Inspire-Portfolio)
 
 [TWU Hearts Portfolio Theme](https://create.twu.ca/portfolio-hearts/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Hearts-Portfolio)
@@ -89,7 +93,7 @@ and WP.com account (+upsells)
 ---
 ## Resource Site for Users
 
-![](eportfolios/assets/img/eport-site.jpg)
+![](eportfolios/assets/img/eportfolios-site.jpg)
 
 [create.twu.ca/eportfolios/](https://create.twu.ca/eportfolios/)
 
