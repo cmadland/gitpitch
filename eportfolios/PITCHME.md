@@ -120,8 +120,10 @@ Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisit
 
 [One More TWU Portfolio Theme For the Road](https://cogdogblog.com/2018/09/one-more-twu-portfolio/) (cogdogblog.com)
 
----?image=eportfolios/assets/img/gitpitch-magic.jpg
+---
 
 ## Meta
 
 [https://gitpitch.com/](https://gitpitch.com/)
+
+---?image=eportfolios/assets/img/gitpitch-magic.jpg
