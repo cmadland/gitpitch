@@ -40,8 +40,8 @@ dedicated server
 easy sign-up
 
 templated sites
-
-help
+---
+help?
 ---
 ## @cogdog
 
@@ -73,4 +73,7 @@ WP.com account too
 [Spartans](https://create.twu.ca/portfolio-spartans/)
 
 ---
+## Built-In Help
+
+![](/eportfolios/assets/img/portfolio-help.png)
 ---
