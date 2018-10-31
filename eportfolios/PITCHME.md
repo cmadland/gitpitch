@@ -93,20 +93,6 @@ and WP.com account (+upsells)
 
 [TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
 
----
-## Resource Site for Users
-
-![](eportfolios/assets/img/eportfolios-site.jpg)
-
-[create.twu.ca/eportfolios/](https://create.twu.ca/eportfolios/)
-
----
-
-## Network Admin Widget
-
-![](eportfolios/assets/img/admin-widget.jpg)
-
-Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisite-enhancements/)
 
 ---
 ## Resource Site for Users
