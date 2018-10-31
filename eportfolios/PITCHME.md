@@ -1,4 +1,4 @@
----?image=assets/img/doghouse.jpg
+---?image=eportfolios/assets/img/doghouse.jpg
 #### Tales from the
 ### DogHouse
 
@@ -57,6 +57,13 @@ allows new users to clone existing sites
 module uses 'Portfolio' post type
 
 themes support it
+
+---
+## JetPack Problem
+
+requires individual activation
+
+WP.com account too
 
 ---
 ## 4 Custom Themes
