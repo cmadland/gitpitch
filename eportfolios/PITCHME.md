@@ -73,9 +73,6 @@ requires individual activation
 
 and WP.com account (+upsells)
 
-<<<<<<< HEAD
-=======
-
 ---
 ## Custom Themes w/ Starter Content
 
@@ -86,7 +83,6 @@ and WP.com account (+upsells)
 ## The Themes
 
 [TWU Inspire Portfolio Theme](https://create.twu.ca/portfolio-inspire/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Inspire-Portfolio)
->>>>>>> 63f686b00ab30230bbd6ce5a628402742e708592
 
 [TWU Hearts Portfolio Theme](https://create.twu.ca/portfolio-hearts/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Hearts-Portfolio)
 
@@ -94,7 +90,6 @@ and WP.com account (+upsells)
 
 [TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
 ---
-<<<<<<< HEAD
 ## Custom Themes w/ Starter Content
 
 ![](eportfolios/assets/img/4-themes.jpg)
@@ -118,20 +113,14 @@ and WP.com account (+upsells)
 [create.twu.ca/eportfolios/](https://create.twu.ca/eportfolios/)
 
 ---
-<<<<<<< HEAD
-## Built-In Help
-
-![](/eportfolios/assets/img/portfolio-help.png)
-=======
 ## Network Admin Widget
 
 ![](eportfolios/assets/img/admin-widget.jpg)
 
 Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisite-enhancements/)
 
->>>>>>> 63f686b00ab30230bbd6ce5a628402742e708592
 ---
-=======
+
 ## Resource Site for Users
 
 ![](eportfolios/assets/img/eportfolios-site.jpg)
@@ -146,7 +135,6 @@ Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisit
 Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisite-enhancements/)
 
 ---
->>>>>>> 63f686b00ab30230bbd6ce5a628402742e708592
 
 ## Links R Us
 
