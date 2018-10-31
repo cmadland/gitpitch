@@ -1,3 +1,4 @@
+---?image=assets/img/doghouse.jpg
 #### Tales from the
 ### DogHouse
 
@@ -47,11 +48,15 @@ help
 Quick shout-out to indie ed-tech!
 ---
 ## NS Cloner Pro
+
 allows new users to clone existing sites
+
 ---
-## JetPack
+## JetPack Plugin?
 
 module uses 'Portfolio' post type
+
+themes support it
 
 ---
 ## 4 Custom Themes
