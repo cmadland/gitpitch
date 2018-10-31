@@ -42,8 +42,11 @@ dedicated server
 easy sign-up
 
 templated sites
+
 ---
+
 help?
+
 ---
 ## @cogdog
 
@@ -89,6 +92,7 @@ and WP.com account (+upsells)
 [TWU Minds Portfolio Theme](https://create.twu.ca/portfolio-minds/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Minds-Portfolio)
 
 [TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
+
 ---
 ## Resource Site for Users
 
@@ -103,7 +107,6 @@ and WP.com account (+upsells)
 ![](eportfolios/assets/img/admin-widget.jpg)
 
 Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisite-enhancements/)
-
 
 ---
 ## Resource Site for Users
