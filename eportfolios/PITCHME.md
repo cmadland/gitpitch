@@ -90,22 +90,6 @@ and WP.com account (+upsells)
 
 [TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
 ---
-## Custom Themes w/ Starter Content
-
-![](eportfolios/assets/img/4-themes.jpg)
-
----
-
-## The Themes
-
-[TWU Inspire Portfolio Theme](https://create.twu.ca/portfolio-inspire/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Inspire-Portfolio)
-
-[TWU Hearts Portfolio Theme](https://create.twu.ca/portfolio-hearts/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Hearts-Portfolio)
-
-[TWU Minds Portfolio Theme](https://create.twu.ca/portfolio-minds/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Minds-Portfolio)
-
-[TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
----
 ## Resource Site for Users
 
 ![](eportfolios/assets/img/eportfolios-site.jpg)
@@ -113,14 +97,15 @@ and WP.com account (+upsells)
 [create.twu.ca/eportfolios/](https://create.twu.ca/eportfolios/)
 
 ---
+
 ## Network Admin Widget
 
 ![](eportfolios/assets/img/admin-widget.jpg)
 
 Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisite-enhancements/)
 
----
 
+---
 ## Resource Site for Users
 
 ![](eportfolios/assets/img/eportfolios-site.jpg)
@@ -145,4 +130,3 @@ Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisit
 [Quick Peek at TWU Portfolios Project](https://cogdogblog.com/2018/09/twu-portfolios-project/) (cogdogblog.com)
 
 [One More TWU Portfolio Theme For the Road](https://cogdogblog.com/2018/09/one-more-twu-portfolio/) (cogdogblog.com)
-
