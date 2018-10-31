@@ -67,6 +67,10 @@ WP.com account too
 
 ---
 ## 4 Custom Themes
+[Hearts](https://create.twu.ca/portfolio-hearts/)
+[Minds](https://create.twu.ca/portfolio-minds/)
+[Inspire](https://create.twu.ca/portfolio-inspire/)
+[Spartans](https://create.twu.ca/portfolio-spartans/)
 
 ---
 ---
