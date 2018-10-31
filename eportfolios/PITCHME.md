@@ -80,8 +80,11 @@ and WP.com account (+upsells)
 ![](eportfolios/assets/img/4-themes.jpg)
 
 [TWU Inspire Portfolio Theme](https://create.twu.ca/portfolio-inspire/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Inspire-Portfolio)
+
 [TWU Hearts Portfolio Theme](https://create.twu.ca/portfolio-hearts/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Hearts-Portfolio)
+
 [TWU Minds Portfolio Theme](https://create.twu.ca/portfolio-minds/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Minds-Portfolio)
+
 [TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
 ---
 ## Resource Site for Users
@@ -102,11 +105,10 @@ Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisit
 ## Links R Us
 
 [TWU Create](https://create.twu.ca/)
+
 [TWU e-Portfolios](https://create.twu.ca/eportfolios/)
+
 [Quick Peek at TWU Portfolios Project](https://cogdogblog.com/2018/09/twu-portfolios-project/) (cogdogblog.com)
+
 [One More TWU Portfolio Theme For the Road](https://cogdogblog.com/2018/09/one-more-twu-portfolio/) (cogdogblog.com)
-[TWU Inspire Portfolio Theme](https://create.twu.ca/portfolio-inspire/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Inspire-Portfolio)
-[TWU Hearts Portfolio Theme](https://create.twu.ca/portfolio-hearts/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Hearts-Portfolio)
-[TWU Minds Portfolio Theme](https://create.twu.ca/portfolio-minds/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Minds-Portfolio)
-[TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
-TWU Portfolio Helper pluging @fa[github][repo](https://github.com/TWUOnline/TWU-Portfolio-Helper)
+
