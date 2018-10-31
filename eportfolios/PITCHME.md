@@ -27,6 +27,8 @@ Note:
 
 'Hey Colin...'
 
+WordPress Multisite!
+
 Note:
 - WPMS on shared server (reclaim)
 - 600 freshmen in 2018
@@ -46,10 +48,16 @@ help
 ## @cogdog
 
 Quick shout-out to indie ed-tech!
+
+![](eportfolios/assets/img/cogdog.png)
+
+[cog.dog](https://cog.dog)
+
+
 ---
 ## NS Cloner Pro
 
-allows new users to clone existing sites
+allows new users choose sites start from templates
 
 ---
 ## JetPack Plugin?
@@ -59,18 +67,46 @@ module uses 'Portfolio' post type
 themes support it
 
 ---
-## JetPack Problem
+## JetPack Headaches
 
 requires individual activation
 
-WP.com account too
+and WP.com account (+upsells)
+
 
 ---
-## 4 Custom Themes
-[Hearts](https://create.twu.ca/portfolio-hearts/)
-[Minds](https://create.twu.ca/portfolio-minds/)
-[Inspire](https://create.twu.ca/portfolio-inspire/)
-[Spartans](https://create.twu.ca/portfolio-spartans/)
+## Custom Themes w/ Starter Content
+
+![](eportfolios/assets/img/4-themes.jpg)
+
+[TWU Inspire Portfolio Theme](https://create.twu.ca/portfolio-inspire/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Inspire-Portfolio)
+[TWU Hearts Portfolio Theme](https://create.twu.ca/portfolio-hearts/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Hearts-Portfolio)
+[TWU Minds Portfolio Theme](https://create.twu.ca/portfolio-minds/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Minds-Portfolio)
+[TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
+---
+## Resource Site for Users
+
+![](eportfolios/assets/img/eport-site.jpg)
+
+[create.twu.ca/eportfolios/](https://create.twu.ca/eportfolios/)
 
 ---
+## Network Admin Widget
+
+![](eportfolios/assets/img/admin-widget.jpg)
+
+Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisite-enhancements/)
+
 ---
+
+## Links R Us
+
+[TWU Create](https://create.twu.ca/)
+[TWU e-Portfolios](https://create.twu.ca/eportfolios/)
+[Quick Peek at TWU Portfolios Project](https://cogdogblog.com/2018/09/twu-portfolios-project/) (cogdogblog.com)
+[One More TWU Portfolio Theme For the Road](https://cogdogblog.com/2018/09/one-more-twu-portfolio/) (cogdogblog.com)
+[TWU Inspire Portfolio Theme](https://create.twu.ca/portfolio-inspire/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Inspire-Portfolio)
+[TWU Hearts Portfolio Theme](https://create.twu.ca/portfolio-hearts/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Hearts-Portfolio)
+[TWU Minds Portfolio Theme](https://create.twu.ca/portfolio-minds/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Minds-Portfolio)
+[TWU Spartans Portfolio Theme](https://create.twu.ca/portfolio-spartans/) • @fa[github][repo](https://github.com/TWUOnline/TWU-Spartans-Portfolio)
+TWU Portfolio Helper pluging @fa[github][repo](https://github.com/TWUOnline/TWU-Portfolio-Helper)
