@@ -65,7 +65,7 @@ Goodbye "Hello World"
 
 Users create sites from pre-built template/content
 
-[NC CLoner Pro](https://neversettle.it/projects/wp-plugins/ns-cloner-wordpress-multisite-plugins/)
+[plugin info](https://neversettle.it/projects/wp-plugins/ns-cloner-wordpress-multisite-plugins/)
 
 ---
 ## JetPack Plugin?
