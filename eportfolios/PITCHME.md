@@ -6,7 +6,8 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-###### [http://bit.ly/etug18](http://bit.ly/etug18)
+[bit.ly/etug18](http://bit.ly/etug18)
+
 ###### @fa[code-fork]  [this presentation on](https://github.com/cmadland/gitpitch)  @fa[github]
 @fa[twitter][@colinmadland](https://twitter.com/colinmadland)
 
@@ -58,19 +59,25 @@ Quick shout-out to indie ed-tech!
 
 
 ---
-## NS Cloner Pro
+## NS Cloner Pro Plugin
 
-allows new users choose sites start from templates
+Goodbye "Hello World"
+
+Users create sites from pre-built template/content
+
+[NC CLoner Pro](https://neversettle.it/projects/wp-plugins/ns-cloner-wordpress-multisite-plugins/)
 
 ---
 ## JetPack Plugin?
 
-module uses 'Portfolio' post type
+module for 'Portfolio' post type
 
-themes support it
+[exisiting themes designed to use it](https://wordpress.org/themes/search/portfolio%20jetpack/)
 
 ---
 ## JetPack Headaches
+
+![](eportfolios/assets/img/headache.gif)
 
 requires individual activation
 
@@ -120,10 +127,11 @@ Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisit
 
 [One More TWU Portfolio Theme For the Road](https://cogdogblog.com/2018/09/one-more-twu-portfolio/) (cogdogblog.com)
 
----
+
+---?image=eportfolios/assets/img/gitpitch-magic.jpg
 
 ## Meta
 
 [https://gitpitch.com/](https://gitpitch.com/)
 
----?image=eportfolios/assets/img/gitpitch-magic.jpg
+
