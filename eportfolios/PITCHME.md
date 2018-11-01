@@ -132,6 +132,12 @@ Leverages [Multisite Enhancements plugin](https://wordpress.org/plugins/multisit
 
 ## Meta
 
-[https://gitpitch.com/](https://gitpitch.com/)
+presented with:  [gitpitch.com](https://gitpitch.com/)
+
+title image : <a title="2017/365/92 Flowering Dog House" href="https://flickr.com/photos/cogdog/33679260441">flickr photo</a> flickr photo by <a href="https://flickr.com/people/cogdog">cogdogblog</a> <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>
+
+headache gif: [giphy](https://giphy.com/gifs/head-pain-YpmVBNubONoqs)
+
+screen shots: from create.twu.ca
 
 
