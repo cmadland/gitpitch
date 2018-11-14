@@ -16,7 +16,7 @@ Note:
 - most recently moved to secwepemc territory
 - now grateful to live and work on stolo and kwantlen territory
 
----?image=https://www.flickr.com/photos/colinmadland/25857692943
+---?image=[https://www.flickr.com/photos/colinmadland/25857692943](https://www.flickr.com/photos/colinmadland/25857692943)
 
 
 
