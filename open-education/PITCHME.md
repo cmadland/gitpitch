@@ -20,10 +20,7 @@ Note:
 
 
 
-Image: Colin Madland
----?image=/open-education/assets/dan-gold-108972-unsplash.jpg
 
-
-Image: Dan Gold
+---?image=
 
 ---
