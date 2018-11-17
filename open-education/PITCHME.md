@@ -15,25 +15,38 @@ Note:
 - born in simpcw territory AKA Clearwater, BC
 - most recently moved to secwepemc territory
 - now grateful to live and work on stolo and kwantlen territory
+---
+
+another binary
 
 ---?image=/open-education/assets/magma-geopark-norway.jpg&size=contain
 
 
 ---
 
-pathway is very narrow and difficult
+narrow and difficult
+
+limited access
 
 ---?image=open-education/assets/Rakaia_River_NZ_aerial_braided.jpg&size=contain
 
 ---
 almost unlimited and constantly changing pathways
 
-learning is messy and unpredictable
-
-knowledge is built from many different sources
+thousands of access points
 
 ---
+### 5 Ps of Open Education
 
+participation
+
+pedagogy
+
+permission
+
+product
+
+policy
 ---
 Image Credits:
 
