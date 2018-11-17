@@ -21,7 +21,7 @@ Note:
 
 
 
----?image=open-education/assets/Rakaia_River_NZ_aerial_braided.jpg
+---?image=open-education/assets/Rakaia_River_NZ_aerial_braided.jpg&size=contain
 
 ---
 Image Credits:
