@@ -131,12 +131,16 @@ the solution *_is_* the problem
 
 > The solution is not to integrate them (the oppressed) into the structure of oppression, but to transform that structure so that they become "beings for themselves". (Freire, 2018, p. 74)
 ---
-# 5 (more) R's
+# 5 {more} R's
 ---
 respect
+
 reciprocity
+
 relevance
+
 responsibility
+
 relationships
 ---
 Image Credits:
