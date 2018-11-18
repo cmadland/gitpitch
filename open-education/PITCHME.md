@@ -1,4 +1,5 @@
 ## Open Education
+open to what? for whom?
 
 ##### Colin Madland
 
@@ -54,18 +55,12 @@ policy
 ---
 access for marginalized or remote groups
 
-low barriers (format, technology, pre-requisites)
+low barriers (format, technology, pre-requisites, cost)
 
 networked & connected
 
 agency
----
 
-# counter-examples
----
-MOOCs
-
-inclusion that excludes
 ---
 # Pedagogy
 ---
@@ -102,7 +97,23 @@ KPU Special Advisor
 
 TRU Open Mandate
 ---
+# Awesome! Wow!
 
+What about Indigenous students?
+
+Do the 5Ps do anything to benefit Indigenous students?
+---
+'open' often requires digital technology
+---
+most educational technology is bullshit
+---
+# inclusion that excludes
+
+
+---
+
+
+---
 Image Credits:
 
 1. Colin Madland
