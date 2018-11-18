@@ -18,7 +18,7 @@ Note:
 - now grateful to live and work on stolo and kwantlen territory
 ---
 
-another binary
+another binary...or two
 
 ---?image=/open-education/assets/magma-geopark-norway.jpg&size=contain
 
@@ -123,7 +123,7 @@ operant conditioning (BF Skinner)
 
 
 ---
-aspirational narrative around 'open education' in Canada as a driver of social justice
+aspirational narrative in Canada that 'open education' is a driver of social justice
 ---
 massive inequality between Indigenous people and settlers
 ---
