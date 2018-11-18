@@ -44,7 +44,7 @@ pedagogy
 
 permission
 
-product
+publishing
 
 policy
 ---
@@ -60,7 +60,47 @@ networked & connected
 
 agency
 ---
+
+# counter-examples
+---
+MOOCs
+
+inclusion that excludes
+---
 # Pedagogy
+---
+agency
+
+networked & connected
+
+use and production of OER
+---
+# Permissions
+---
+reuse
+
+revise
+
+remix
+
+redistribute
+
+retain
+---
+# Publishing
+---
+open access
+
+gold? green?
+
+---
+# Policy
+---
+UBC Tenure and promotion
+
+KPU Special Advisor
+
+TRU Open Mandate
 ---
 
 Image Credits:
