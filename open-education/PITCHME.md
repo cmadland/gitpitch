@@ -36,7 +36,7 @@ almost unlimited and constantly changing pathways
 thousands of access points
 
 ---
-### 5 Ps of Open Education
+### 5 P's of Open Education
 
 participation
 
@@ -48,6 +48,21 @@ product
 
 policy
 ---
+
+# Participation
+
+---
+access for marginalized or remote groups
+
+low barriers (format, technology, pre-requisites)
+
+networked & connected
+
+agency
+---
+# Pedagogy
+---
+
 Image Credits:
 
 1. Colin Madland
