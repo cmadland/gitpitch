@@ -107,6 +107,15 @@ Do the 5Ps do anything to benefit Indigenous students?
 ---
 most educational technology is bullshit
 ---
+| Indigenous education | Online Education |
+| :--- | :---|
+| situated in a specific community | accessible across multiple communities  |
+| highly contextual   | very low context  |
+| experiential, holistic, personal, orally transmitted, narrative, metaphor   | technologically mediated, therefore difficult to align w/ indigenous education  |
+
+---
+
+---
 # inclusion that excludes
 
 
