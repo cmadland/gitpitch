@@ -104,6 +104,10 @@ What about Indigenous students?
 Do the 5Ps do anything to benefit Indigenous students?
 ---
 'open' often requires digital technology
+
+digital technology opens and closes
+
+'in' voices are algorithmically promoted
 ---
 most educational technology is bullshit
 ---
@@ -113,15 +117,27 @@ most educational technology is bullshit
 | highly contextual   | very low context  |
 | experiential, holistic, personal, orally transmitted, narrative, metaphor   | technologically mediated, therefore difficult to align w/ indigenous education  |
 
----
 
 ---
-# inclusion that excludes
+aspirational narrative around 'open education' in Canada as a driver of social justice
+---
+massive inequality between Indigenous people and settlers
 
+mandate from the TRC
 
 ---
 
+the solution *_is_* the problem
 
+> The solution is not to integrate them (the oppressed) into the structure of oppression, but to transform that structure so that they become "beings for themselves". (Freire, 2018, p. 74)
+---
+# 5 (more) R's
+---
+respect
+reciprocity
+relevance
+responsibility
+relationships
 ---
 Image Credits:
 
