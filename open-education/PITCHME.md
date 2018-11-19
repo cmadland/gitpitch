@@ -255,6 +255,50 @@ relationships
 (Tessaro, et al, 2017)
 
 ---
+### Respect
+
+Note:
+need to respect Indigenous cultures.
+hierarchies aren't inherent to Indigenous worldviews...no separation between teacher and student
+use Indigenous authors, allow for meaningful participant feedback, learning activities based in local community, opportunity to connect in real time
+
+---
+
+### Reciprocity
+
+Note:
+- countering decades of extractive and exploitative research
+- learning is mutually beneficial
+- listen to and respect student voice; horizontal sharing
+- final assignment intended to stay in the school
+
+---
+
+### Relevance
+
+Note:
+- beyond book learning
+- learning activities 'hands-on' in the community
+
+---
+
+### Responsibility
+
+Note:
+- responsible to culture
+- responsive to personal responsibilities (family, work, etc)
+- responsiblity to accreditors (gov't, bureaucracy)
+
+---
+
+### Relationships
+
+Note:
+- students and teachers
+- students and students
+- students and community
+
+---
 
 ### References
 
@@ -284,6 +328,6 @@ Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-St
 
 Image Credits:
 
-1. Colin Madland
+1. Colin Madland [CC BY 3.0](https://creativecommons.org/licenses/by/3.0 "Creative Commons Attribution 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=8986401)
 
 2. [Andrew Cooper](//commons.wikimedia.org/wiki/User:Andrew_Cooper "User:Andrew Cooper") - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0 "Creative Commons Attribution 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=8986401)
