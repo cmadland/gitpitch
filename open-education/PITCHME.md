@@ -122,6 +122,8 @@ redistribute
 
 retain
 
+(Wiley, ND)
+
 Note:
 The 5R permissions might be seen as catalysts for the processes of learning in open education environments. They don't seem to be necessary or sufficient, but they really do help. In North america, and particularly in BC, there has been a very pointed emphasis on the affordances of open licenses in reducing costs for students by making textbooks available free of charge.
 
@@ -323,6 +325,10 @@ Selwyn, N. (2016). Minding our language: why education and technology is full of
 ---
 
 Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. *Canadian Journal of Native Education, 40*(1), 125–143.
+
+---
+
+Wiley, D. (ND). Defining the ‘open’ in open content. Retrieved September 23, 2018, from http://www.opencontent.org/definition/
 
 ---
 
