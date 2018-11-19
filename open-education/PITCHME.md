@@ -286,4 +286,4 @@ Image Credits:
 
 1. Colin Madland
 
-2. [Andrew Cooper](//commons.wikimedia.org/wiki/User:Andrew_Cooper "User:Andrew Cooper") - Own work, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0 "Creative Commons Attribution 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=8986401)
+2. [Andrew Cooper](//commons.wikimedia.org/wiki/User:Andrew_Cooper "User:Andrew Cooper") - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0 "Creative Commons Attribution 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=8986401)
