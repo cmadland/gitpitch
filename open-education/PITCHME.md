@@ -187,6 +187,7 @@ The deepest learning takes place through lived experience. It requires exploring
 
 It is about striving to become a better human being and living with balance in body, mind, heart and spirit.
 
+(“Aboriginal Ways of Knowing and Being,” 2017)
 
 ---
 
@@ -198,15 +199,18 @@ digital technology *opens* and *closes*
 
 marginal voices are silenced
 
+(Funes & Mackness, 2018)
+
 ---
 
-most educational technology is bullshit
+most educational technology is bullshit (Selwyn, 2016)
 
 surveillance capitalism
 
 operant conditioning (BF Skinner)
 
 ---
+Tessaro et al, (2017)
 
 | Indigenous education | Online Education |
 | :--- | ---:|
@@ -248,7 +252,36 @@ responsibility
 
 relationships
 
+(Tessaro, et al, 2017)
+
 ---
+
+### References
+
+Aboriginal Ways of Knowing and Being. (2017). BCTF. Retrieved from https://bctf.ca/uploadedFiles/Public/AboriginalEducation/AboriginalWaysofKnowing.pdf
+
+---
+
+Freire, P. (2018). *Pedagogy of the Oppressed: 50th Anniversary Edition.* Bloomsbury Academic.
+
+---
+
+Funes, M., & Mackness, J. (2018). When inclusion excludes: a counter narrative of open online education. *Learning, Media and Technology, 43*(2), 119–138. https://doi.org/10.1080/17439884.2018.1444638
+
+---
+
+Paskevicius, M. (2017). Conceptualizing Open Educational Practices through the Lens of Constructive Alignment. *Open Praxis, 9*(2), 125–140. Retrieved from https://openpraxis.org/index.php/OpenPraxis/article/view/519
+
+---
+
+Selwyn, N. (2016). Minding our language: why education and technology is full of bullshit … and what might be done about it. *Learning, Media and Technology, 41*(3), 437–443. https://doi.org/10.1080/17439884.2015.1012523
+
+---
+
+Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. *Canadian Journal of Native Education, 40*(1), 125–143.
+
+---
+
 Image Credits:
 
 1. Colin Madland
