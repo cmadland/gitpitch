@@ -166,6 +166,37 @@ Do the 5Ps do *anything* to benefit Indigenous students?
 
 ---
 
+
+'open' often requires digital technology
+
+digital technology *opens* and *closes*
+
+'in' voices are algorithmically promoted
+
+marginal voices are silenced
+
+(Funes & Mackness, 2018)
+
+---
+
+most educational technology is bullshit (Selwyn, 2016)
+
+surveillance capitalism (Zuboff, 2015)
+
+operant conditioning (Skinner, 1938)
+
+---
+Tessaro et al, (2017)
+
+| Indigenous education | Online Education |
+| :--- | ---:|
+| situated in a specific community | accessible across multiple communities  |
+| highly contextual   | very low context  |
+| experiential, holistic, personal, orally transmitted, narrative, metaphor   | technologically mediated, therefore difficult to align w/ Indigenous education  |
+
+
+---
+
 #### Learning is connected to land, culture, and spirit.
 
 We—the two-legged, four-legged, finned and feathered, plants and rocks —are all related.
@@ -193,35 +224,6 @@ It is about striving to become a better human being and living with balance in b
 
 ---
 
-'open' often requires digital technology
-
-digital technology *opens* and *closes*
-
-'in' voices are algorithmically promoted
-
-marginal voices are silenced
-
-(Funes & Mackness, 2018)
-
----
-
-most educational technology is bullshit (Selwyn, 2016)
-
-surveillance capitalism
-
-operant conditioning (BF Skinner)
-
----
-Tessaro et al, (2017)
-
-| Indigenous education | Online Education |
-| :--- | ---:|
-| situated in a specific community | accessible across multiple communities  |
-| highly contextual   | very low context  |
-| experiential, holistic, personal, orally transmitted, narrative, metaphor   | technologically mediated, therefore difficult to align w/ Indigenous education  |
-
-
----
 
 aspirational narrative in Canada that 'open education' is a driver of social justice
 
@@ -324,11 +326,19 @@ Selwyn, N. (2016). Minding our language: why education and technology is full of
 
 ---
 
+Skinner, B.F. (1938). *The behaviour of organisms.* New York: Appleton-Century-Crofts.
+
+---
+
 Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. *Canadian Journal of Native Education, 40*(1), 125–143.
 
 ---
 
 Wiley, D. (ND). Defining the ‘open’ in open content. Retrieved September 23, 2018, from http://www.opencontent.org/definition/
+
+---
+
+Zuboff, S. (2015). Big other: surveillance capitalism and the prospects of an information civilization. *Journal of Information Technology, 30*(1), 75–89. https://doi.org/10.1057/jit.2015.5
 
 ---
 
