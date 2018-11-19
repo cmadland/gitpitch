@@ -26,7 +26,7 @@ We have spoken in class about the existence of binaries, like the master-slave d
 ---?image=/open-education/assets/magma-geopark-norway.jpg&size=contain
 
 Note:
-I took this photograph
+I took this photograph on a trip to Norway in 2016 and it is an interesting historical location related to WWII and also can be used as a metaphor for education.
 
 ---
 
@@ -34,7 +34,18 @@ narrow and difficult
 
 limited access
 
+Note:
+Notice three things:
+- fjord
+- steep cliffs
+- tiny road along the left side
+
+The pathway through the fjord is very narrow, exclusive to one side, and relatively inaccessible. There are several barriers to mobility.
+
 ---?image=open-education/assets/Rakaia_River_NZ_aerial_braided.jpg&size=contain
+
+Note:
+This image, which I found online, but is licensed for reuse, is of the Rakaia River in New Zealand.
 
 ---
 
@@ -42,6 +53,8 @@ almost unlimited and constantly changing pathways
 
 thousands of access points
 
+Note:
+You should be able to notice that there are unlimited and constantly changing pathways through the riverbed. After each storm, or seasonal flood, there will be totally new pathways created. There are also myriad points of access. a person travelling through here could start at many different points and direct their own path through. These two images illustrate a binary with 'open' on one end and 'closed' on the other.
 ---
 
 ### 5 P's of Open Education
@@ -56,6 +69,8 @@ publishing
 
 policy
 
+Note:
+I've been thinking about and researching the concept of open education this semester and have noticed that there are several, sometimes conflicting, views on what open education actually is. I've tentatively categorized these different views into 5 alliterative P-words.
 ---
 
 # Participation
@@ -70,6 +85,8 @@ networked & connected
 
 agency
 
+Note:
+the 
 ---
 
 # Pedagogy
