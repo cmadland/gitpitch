@@ -186,7 +186,6 @@ surveillance capitalism (Zuboff, 2015)
 operant conditioning (Skinner, 1938)
 
 ---
-Tessaro et al, (2017)
 
 | Indigenous education | Online Education |
 | :--- | ---:|
@@ -194,7 +193,7 @@ Tessaro et al, (2017)
 | highly contextual   | very low context  |
 | experiential, holistic, personal, orally transmitted, narrative, metaphor   | technologically mediated, therefore difficult to align w/ Indigenous education  |
 
-
+(Tessaro et al, 2017)
 ---
 
 #### Learning is connected to land, culture, and spirit.
@@ -232,8 +231,9 @@ aspirational narrative in Canada that 'open education' is a driver of social jus
 massive inequality between Indigenous people and settlers
 
 ---
-mandate from the TRC
+Calls to Action from the TRC
 
+(“Truth and Reconciliation Commission of Canada: Calls to Action,” 2015)
 ---
 
 the solution *_is_* the problem
@@ -306,7 +306,7 @@ Note:
 
 ### References
 
-Aboriginal Ways of Knowing and Being. (2017). BCTF. Retrieved from https://bctf.ca/uploadedFiles/Public/AboriginalEducation/AboriginalWaysofKnowing.pdf
+*Aboriginal Ways of Knowing and Being.* (2017). BCTF. Retrieved from https://bctf.ca/uploadedFiles/Public/AboriginalEducation/AboriginalWaysofKnowing.pdf
 
 ---
 
@@ -333,6 +333,9 @@ Skinner, B.F. (1938). *The behaviour of organisms.* New York: Appleton-Century-C
 Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. *Canadian Journal of Native Education, 40*(1), 125–143.
 
 ---
+
+*Truth and Reconciliation Commission of Canada: Calls to Action.* (2015). Truth and Reconciliation Commission of Canada. Retrieved from http://nctr.ca/assets/reports/Calls_to_Action_English2.pdf
+
 
 Wiley, D. (ND). Defining the ‘open’ in open content. Retrieved September 23, 2018, from http://www.opencontent.org/definition/
 
