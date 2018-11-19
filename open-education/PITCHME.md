@@ -86,7 +86,8 @@ networked & connected
 agency
 
 Note:
-the 
+One of the most common rationales for open education is to increase access to higher education for marginalized or remote groups. Catherine Cronin describes it as an invitation to participate. It seems to me that this is an essential feature of OE. Without this commitment to increasing access to education, I think practitioners cease to be open. Openness is often enacted by lowering barriers like distance, finance, pre-requisites, time, and qualifications. Increasing student voice in the process of education by including students in relevant decisions about what will be learned, how it will be learned, and how it will be demonstrated is also important. "Nothing about me without me".
+The remaining p-words can be seen as supporting and enhancing student participation.
 ---
 
 # Pedagogy
@@ -101,11 +102,15 @@ networked & connected
 
 use and production of OER
 
+Note:
+The idea of open pedagogy, or open education practices, or OER-enabled pedagogies, is that there are learning activities that can be engaged which are afforded by the unique characteristics of open environments. By leveraging the permissions (next p) of open resources, faculty can engage their students with revising or remixing course materials and then redistributing them for future cohorts. These activities are presumed to increase the degree to which students are able to exercise their agency within a learning community.
+
 ---
 
 # Permissions
 
 ---
+### Creative Commons
 
 reuse
 
@@ -117,6 +122,9 @@ redistribute
 
 retain
 
+Note:
+The 5R permissions might be seen as catalysts for the processes of learning in open education environments. They don't seem to be necessary or sufficient, but they really do help. In North america, and particularly in BC, there has been a very pointed emphasis on the affordances of open licenses in reducing costs for students by making textbooks available free of charge.
+
 ---
 
 # Publishing
@@ -126,6 +134,9 @@ retain
 open access
 
 gold? green?
+
+Note:
+
 
 ---
 
