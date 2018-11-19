@@ -27,6 +27,7 @@ We have spoken in class about the existence of binaries, like the master-slave d
 
 Note:
 I took this photograph
+
 ---
 
 narrow and difficult
@@ -36,11 +37,13 @@ limited access
 ---?image=open-education/assets/Rakaia_River_NZ_aerial_braided.jpg&size=contain
 
 ---
+
 almost unlimited and constantly changing pathways
 
 thousands of access points
 
 ---
+
 ### 5 P's of Open Education
 
 participation
@@ -52,11 +55,13 @@ permission
 publishing
 
 policy
+
 ---
 
 # Participation
 
 ---
+
 access for marginalized or remote groups
 
 low barriers (format, technology, pre-requisites, cost)
@@ -66,8 +71,11 @@ networked & connected
 agency
 
 ---
+
 # Pedagogy
+
 ---
+
 agency
 
 > participatory, student-directed projects (Paskevicius, 2017)
@@ -75,9 +83,13 @@ agency
 networked & connected
 
 use and production of OER
+
 ---
+
 # Permissions
+
 ---
+
 reuse
 
 revise
@@ -87,30 +99,43 @@ remix
 redistribute
 
 retain
+
 ---
+
 # Publishing
+
 ---
+
 open access
 
 gold? green?
 
 ---
+
 # Policy
+
 ---
+
 top-down & bottom-up
+
 ---
+
 UBC Tenure and Promotion
 
 KPU Special Advisor
 
 TRU Open Mandate
+
 ---
+
 # Awesome! Wow!
 
 What about Indigenous students?
 
 Do the 5Ps do *anything* to benefit Indigenous students?
+
 ---
+
 'open' often requires digital technology
 
 digital technology *opens* and *closes*
@@ -118,13 +143,17 @@ digital technology *opens* and *closes*
 'in' voices are algorithmically promoted
 
 marginal voices are silenced
+
 ---
+
 most educational technology is bullshit
 
 surveillance capitalism
 
 operant conditioning (BF Skinner)
+
 ---
+
 | Indigenous education | Online Education |
 | :--- | ---:|
 | situated in a specific community | accessible across multiple communities  |
@@ -133,9 +162,13 @@ operant conditioning (BF Skinner)
 
 
 ---
+
 aspirational narrative in Canada that 'open education' is a driver of social justice
+
 ---
+
 massive inequality between Indigenous people and settlers
+
 ---
 mandate from the TRC
 
@@ -144,8 +177,10 @@ mandate from the TRC
 the solution *_is_* the problem
 
 > The solution is not to integrate them (the oppressed) into the structure of oppression, but to transform that structure so that they become "beings for themselves". (Freire, 2018, p. 74)
+
 ---?image=open-education/assets/madland.jpg&size=contain
 # 5 {more} R's
+
 ---
 
 respect
@@ -157,6 +192,7 @@ relevance
 responsibility
 
 relationships
+
 ---
 Image Credits:
 
