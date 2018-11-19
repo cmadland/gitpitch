@@ -20,9 +20,13 @@ Note:
 
 another binary...or two
 
+Note:
+We have spoken in class about the existence of binaries, like the master-slave dialectic, oppressor/oppressed, student/teacher, and others. This paper will highlight at least two more binaries, or at least apparent binaries, and then discuss briefly how we might begin to think beyond those binaries and in a more holistic manner.
+
 ---?image=/open-education/assets/magma-geopark-norway.jpg&size=contain
 
-
+Note:
+I took this photograph
 ---
 
 narrow and difficult
@@ -66,6 +70,8 @@ agency
 ---
 agency
 
+> participatory, student-directed projects (Paskevicius, 2017)
+
 networked & connected
 
 use and production of OER
@@ -91,7 +97,9 @@ gold? green?
 ---
 # Policy
 ---
-UBC Tenure and promotion
+top-down & bottom-up
+---
+UBC Tenure and Promotion
 
 KPU Special Advisor
 
@@ -101,13 +109,15 @@ TRU Open Mandate
 
 What about Indigenous students?
 
-Do the 5Ps do anything to benefit Indigenous students?
+Do the 5Ps do *anything* to benefit Indigenous students?
 ---
 'open' often requires digital technology
 
 digital technology *opens* and *closes*
 
 'in' voices are algorithmically promoted
+
+marginal voices are silenced
 ---
 most educational technology is bullshit
 
@@ -134,7 +144,7 @@ mandate from the TRC
 the solution *_is_* the problem
 
 > The solution is not to integrate them (the oppressed) into the structure of oppression, but to transform that structure so that they become "beings for themselves". (Freire, 2018, p. 74)
----
+---?image=open-education/assets/madland.jpg&size=contain
 # 5 {more} R's
 ---
 
