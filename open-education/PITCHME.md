@@ -46,7 +46,7 @@ The pathway through the fjord is very narrow, exclusive to one side, and relativ
 
 Note:
 This image, which I found online, but is licensed for reuse, is of the Rakaia River in New Zealand.
-
+You should be able to notice that there are unlimited and constantly changing pathways through the riverbed. After each storm, or seasonal flood, there will be totally new pathways created. There are also myriad points of access. a person travelling through here could start at many different points and direct their own path through.
 ---
 
 almost unlimited and constantly changing pathways
@@ -54,7 +54,7 @@ almost unlimited and constantly changing pathways
 thousands of access points
 
 Note:
-You should be able to notice that there are unlimited and constantly changing pathways through the riverbed. After each storm, or seasonal flood, there will be totally new pathways created. There are also myriad points of access. a person travelling through here could start at many different points and direct their own path through. These two images illustrate a binary with 'open' on one end and 'closed' on the other.
+These two images illustrate a binary with 'open' on one end and 'closed' on the other.
 ---
 
 ### 5 P's of Open Education
