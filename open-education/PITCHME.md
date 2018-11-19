@@ -164,6 +164,32 @@ Do the 5Ps do *anything* to benefit Indigenous students?
 
 ---
 
+## Learning is connected to land, culture, and spirit.
+
+We—the two-legged, four-legged, finned and feathered, plants and rocks —are all related.
+We must always practice reciprocity through acts of giving and receiving.
+
+---
+
+## Learning honours our Ancestors, Elders, Knowledge Keepers and Descendents.
+
+It respects and embraces ceremony, protocol, and teachings that are connected to the sacred medicines including tobacco, cedar, sage, and sweetgrass.
+Important teachings emerge through stories.
+
+---
+
+## Learning involves developing relationships, respecting distinct cultures, and honouring the perspective of others in our communities.
+
+The deepest learning takes place through lived experience. It requires exploring our identities, learning from our mistakes, and having gratitude for our gifts.
+
+---
+## Learning is a journey that takes courage, patience and humility.
+
+It is about striving to become a better human being and living with balance in body, mind, heart and spirit.
+
+
+---
+
 'open' often requires digital technology
 
 digital technology *opens* and *closes*
